@@ -1,10 +1,10 @@
 # Mini-Diablo: Quest for the Sacred Stones
 
-Welcome to *Mini-Diablo*, a short RPG game where you embark on a quest for the sacred stones. Choose your class and battle with Demon!
+Welcome to *Mini-Diablo*, a short RPG game where you are on a quest for the sacred stones. Choose your class and battle with Demon!
 
 ## Installation
 
-No installation is required! Just clone the repository and run the game in your preferred Python environment.
+No installation is required! Just clone the repository and run the game in your Python environment.
 
 ```
 git clone https://github.com/DaPandamonium/mini-diablo.git
